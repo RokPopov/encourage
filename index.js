@@ -1,0 +1,1 @@
+console.log('The best decision in your life. Go after it!');
